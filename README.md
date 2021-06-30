@@ -7,6 +7,8 @@ I had a total of 6 hours to program a game of checkers. Features include:
 * Legal but random moves from the AI
 * Single jump captures (doubles and beyond weren't completed)
 
+The entry point for the game can be found in Main.cpp. Enjoy!
+
 ![Image](https://github.com/cgikoray/Blizzard-Checkers/blob/main/Checkers/Images/Intro.PNG)
 
 ![Image](https://github.com/cgikoray/Blizzard-Checkers/blob/main/Checkers/Images/Begin.PNG)
