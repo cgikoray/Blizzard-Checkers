@@ -89,6 +89,10 @@
     <ClInclude Include="HumanPlayer.h" />
     <ClInclude Include="IPlayer.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="Images\Begin.PNG" />
+    <Image Include="Images\Intro.PNG" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
