@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Checkers/Debug
+/Checkers/Release
+/Debug
+/Release
+/Checkers/Checkers.vcxproj.user
