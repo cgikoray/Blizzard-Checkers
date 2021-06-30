@@ -12,7 +12,7 @@ int main()
     CheckersGame game;
     CheckersBoard board;
     ComputerPlayer playerOne;
-    ComputerPlayer playerTwo;
+    HumanPlayer playerTwo; // Can also be set to another ComputerPlayer
 
     game.SetCheckersBoard(board);
     game.SetPlayers(playerOne, playerTwo);
